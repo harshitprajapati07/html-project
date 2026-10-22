@@ -1,48 +1,32 @@
 # Frontend Web Development Projects
 
-A collection of frontend web development projects built while learning and practicing HTML and CSS. This repository includes website layouts, styling exercises, and beginner projects.
+A collection of frontend projects built while learning and practicing HTML and CSS. This repository documents my progress in web development through hands-on projects.
 
 ## 🚀 Projects
 
-### 1. TinDog Project
-A website project inspired by a platform for discovering and connecting with dogs.
+### 1. TinDog — Dog Dating Landing Page
+A responsive landing page inspired by a dating app for dogs.
+
+- **Technologies:** HTML, CSS, Bootstrap
+- **Key concepts:** Responsive layouts, navigation, pricing cards, and reusable UI components
+- **Project folder:** [`11.3 TinDog Project`](./11.3%20TinDog%20Project/)
+
+### 2. Mondrian Art — CSS Grid Layout
+A recreation of a geometric artwork using CSS.
 
 - **Technologies:** HTML, CSS
-- **Focus:** Website structure, layout, and styling
-- **Folder:** `11.3 TinDog Project`
+- **Key concepts:** CSS Grid, positioning, spacing, and layout composition
+- **Project folder:** [`mondrian Project`](./mondrian%20Project/)
 
-### 2. Mondrian Project
-A CSS layout exercise inspired by Piet Mondrian's geometric artwork.
-
-- **Technologies:** HTML, CSS
-- **Focus:** CSS Grid, geometric layouts, and positioning
-- **Folder:** `mondrain Project`
-
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
-- CSS Grid and responsive layout concepts where applicable
+- Bootstrap
+- CSS Grid and responsive layout techniques
 
-## 💻 How to Run
+## ▶️ How to Run
 
 1. Clone or download this repository.
 2. Open the project folder you want to explore.
-3. Open its HTML file in your web browser.
-
-## 🎯 Learning Goals
-
-- Strengthen HTML and CSS fundamentals
-- Practice building structured web layouts
-- Improve styling and visual presentation
-- Build a portfolio of frontend projects
-
-## 👨‍💻 Author
-
-**Harshit Prajapati**
-
-- GitHub: [@harshitprajapati07](https://github.com/harshitprajapati07)
-
----
-
-*This repository documents my ongoing journey in frontend web development. Projects will be improved as I learn new skills.*
+3. Open its `
