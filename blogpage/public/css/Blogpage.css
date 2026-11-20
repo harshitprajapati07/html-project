@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    
+}
+.TextContainer{
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.subText{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.Createbtn{
+    background-color: red;
+    color:white;
+}
